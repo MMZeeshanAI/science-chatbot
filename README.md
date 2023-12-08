@@ -9,8 +9,8 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    https://github.com/Ahsanmaqbool/science_chatbot.git
+    cd science_chatbot
     ```
 
 2. **Create and Activate Virtual Environment:**
@@ -55,7 +55,3 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
     ```bash
     docker run -it science_chatbot
     ```
-
-## This Is It
-
-We're not just evaluating a project; we're judging your potential to revolutionize our landscape. Aim for excellence; a half-baked app won’t cut it.
