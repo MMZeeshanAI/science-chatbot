@@ -28,7 +28,7 @@ Follow the instructions below to set up and run the Science Chatbot on your loca
     Create and activate a virtual environment:
 
     ```bash
-    python3.8 -m venv science_chatbot
+    python3 -m venv science_chatbot
     source science_chatbot/bin/activate  # On Windows, use `science_chatbot\Scripts\activate`
     ```
 
