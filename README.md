@@ -84,4 +84,4 @@ Contributions are welcome! If you would like to contribute, please fork the repo
 
 ## Contact
 
-For any questions or inquiries, please contact [Zeeshan Ansar] at [mmzeeshanai@gmail.com].
+For any questions or inquiries, please contact Zeeshan Ansar at [mmzeeshanai@gmail.com].
